@@ -3,5 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Matheus Fernando <matheus.golmini@wisereducacao.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.0.26",
+    "git-commit-msg-linter": "^2.4.4",
+    "typescript": "^3.9.7"
+  }
 }
