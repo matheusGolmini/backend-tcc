@@ -1,0 +1,7 @@
+{
+  "name": "backend-tcc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matheus Fernando <matheus.golmini@wisereducacao.com>",
+  "license": "MIT"
+}
