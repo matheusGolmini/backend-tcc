@@ -5,6 +5,7 @@
   "author": "Matheus Fernando <matheus.golmini@wisereducacao.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/bcrypt": "^3.0.0",
     "@types/jest": "^26.0.7",
     "@types/node": "^14.0.26",
     "@types/validator": "^13.1.0",
@@ -31,6 +32,7 @@
     "test:ci": "yarn test --coverage"
   },
   "dependencies": {
+    "bcrypt": "^5.0.0",
     "validator": "^13.1.1"
   }
 }
